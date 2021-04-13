@@ -22,5 +22,5 @@ module.exports = app => {
         
         res.json(newReservations);
 
-    })
-}
+    });
+};
